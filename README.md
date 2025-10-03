@@ -10,15 +10,11 @@
 * [Project Status](#project-status)
 * [Contact](#contact)
 
-
-
 ## General Information
 An online news site that includes the latest news, news categories and breaking news with an advanced admin panel.
 
 ## Technologies Used
 - PHP 8.1.10
-
-
 
 ## Features
 List the ready features here:
